@@ -36,14 +36,6 @@ document.write( '                          <a href=\"https://www.univ-gustave-ei
 document.write( '                        </div>\n' );
 document.write( '                    </div>\n' );
 document.write( '\n' );
-document.write( '                        <h3>Developments fundings</h3>\n' );
-document.write( '\n' );
-document.write( '                        <p>\n' );
-document.write( '                            <b>NoiseCapture</b> app has been developed thanks to the european <a href=\"https://www.energic-od.eu/\" target=\"blank\">ENERGIC-OD</a> research project and the <a href=\"http://www.geopal.org/accueil\" target=\"blank\">GeoPAL</a> program.\n' );
-document.write( '                            <br>\n' );
-document.write( '                            <b>NoiseModelling</b> plugin has been developed thanks to the <a href=\"http://www.agence-nationale-recherche.fr/projet-anr/?tx_lwmsuivibilan_pi2%5BCODE%5D=ANR-08-VILL-0005\" target=\"blank\">Eval-PDU</a> and <a href=\"http://onerc.developpement-durable.gouv.fr/fr/projet/vegdud-role-du-vegetal-dans-le-developpement-urbain-durable-une-approche-par-les-enjeux-lies-\" target=\"blank\">VegDUD</a> research projects supported by the French National Research Agency (ANR).\n' );
-document.write( '                        </p>                        \n' );
-document.write( '\n' );
 document.write( '                        <h3>Website theme</h3>\n' );
 document.write( '\n' );
 document.write( '                        <p>\n' );
